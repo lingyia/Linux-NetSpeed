@@ -1,6 +1,6 @@
 # Linux-NetSpeed
 ```
-wget -N --no-check-certificate "https://raw.githubusercontents.com/lingyia/Linux-NetSpeed/master/tcp.sh"
+wget -N --no-check-certificate "https://ghproxy.com/raw.githubusercontent.com/lingyia/Linux-NetSpeed/master/tcp.sh"
 chmod +x tcp.sh
 ./tcp.sh
 ```
